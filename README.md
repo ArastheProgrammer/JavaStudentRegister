@@ -1,1 +1,1 @@
-# JavaStudentRegister
+# Java OOP Project
