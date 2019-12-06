@@ -1,1 +1,1 @@
-Basic OOP and programming knownlege about Java programming language
+Basic OOP and programming knownledge about Java programming language
